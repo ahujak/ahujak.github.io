@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{index.html}, addcss{jemdoc.css}
 
 
-= Publications
+= Publications 
 
 == Theses
 
@@ -59,4 +59,10 @@ vol. 5, no. 1, pp. 14-31 (2017)/.
 - *Kartik Ahuja*, Simpson Zhang, Mihaela van der Schaar. [https://ieeexplore.ieee.org/abstract/document/7032223 Towards a Theory of Societal Co-Evolution: Individualism versus Collectivism.]  /In IEEE Global Conference on Signal and Information Processing, GlobalSIP (2014)/.
 
 
+
+= Patents
+
+- *Kartik Ahuja*, Karthikeyan Shanmugam, Kush R. Varshney, Amit Dhurandhar. A System and Method for Learning Causal Representations and Invariant Predictors. /Under review for patentability search/.
+
+- *Kartik Ahuja*, Amit Dhurandhar, Karthikeyan Shanmugam, Kush R. Varshney. A System and Method for Initializing Optimization Solvers. /Under review for patentability search/.
 

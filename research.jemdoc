@@ -12,22 +12,24 @@
 
 == Optimization, Machine Learning, and Game Theory
 
+- *Kartik Ahuja*, Amit Dhurandhar, Karthikeyan Shanmugam,  Kush R. Varshney. Learning to Initialize Gradient Descent using Gradient Descent. /Submitted/.
+
+
 - *Kartik Ahuja*, Jun Wang, Amit Dhurandhar, Karthikeyan Shanmugam, Kush R. Varshney. [https://arxiv.org/abs/2010.16412 Empirical or Invariant Risk Minimization? A Sample Complexity Perspective.] /Submitted/.
 
 - *Kartik Ahuja*, Karthikeyan Shanmugam, Amit Dhurandhar. [https://arxiv.org/pdf/2010.15234v1.pdf Linear Regression Games: Convergence Guarantees to Approximate Out-of-Distribution Solutions.] /Submitted/.
 
-- *Kartik Ahuja*, Karthikeyan Shanmugam, Kush R. Varshney, Amit Dhurandhar. [https://arxiv.org/pdf/2002.04692.pdf Invariant Risk Minimization Games.] /Submitted/.
+- *Kartik Ahuja*, Karthikeyan Shanmugam, Kush R. Varshney, Amit Dhurandhar. [https://arxiv.org/pdf/2002.04692.pdf Invariant Risk Minimization Games.] /International Conference on Machine Learning (ICML), 2020/.
 
-
-- *Kartik Ahuja*, Amit Dhurandhar, Karthikeyan Shanmugam,  Kush R. Varshney. Learning to Initialize Gradient Descent using Gradient Descent. /Submitted/.
+- *Kartik Ahuja*, Karthikeyan Shanmugam, Kush R. Varshney, Amit Dhurandhar. [https://biases-invariances-generalization.github.io/pdf/big_44.pdf On the Equivalence of Bi-Level Optimization and Game-Theoretic
+Formulations of Invariant Risk Minimization.] /Inductive Biases, Invariances and Generalization in RL Workshop, International Conference on Machine Learning (ICML), 2020/.
 
 - *Kartik Ahuja*, Prasanna Sattigeri,  Karthikeyan Shanmugam, Murat Kocaglu, Dennis Wei, Karthikeyan N. Ramamurthy. Conditional Independent Data Generation and its Applications. /Submitted/. 
 
-- Amit Dhurandhar, Tejaswini Pedapati, Avinash Balakrishnan, Pin-Yu Chen, Karthikeyan Shanmugam, *Kartik Ahuja*, and Ruchir Puri. Model Agnostic Contrastive Explanations for Classification Models. /Submitted/.
+- *Kartik Ahuja*. [https://ieeexplore.ieee.org/document/9049082 Estimating Kullback-Leibler Divergence using Kernel Machines.] /In 53rd Asilomar Conference on Signals, Systems, and Computers. IEEE, 2019./ 
 
 - *Kartik Ahuja*, William Zame, Mihaela van der Schaar. [https://ieeexplore.ieee.org/abstract/document/9049045 Optimal Piecewise Approximations for Model Interpretation.] /In 53rd Asilomar Conference on Signals, Systems, and Computers, IEEE, 2019./ *Second best student paper award.*
 
-- *Kartik Ahuja*. [https://ieeexplore.ieee.org/document/9049082 Estimating Kullback-Leibler Divergence using Kernel Machines.] /In 53rd Asilomar Conference on Signals, Systems, and Computers. IEEE, 2019./ 
 
 - *Kartik Ahuja*, Mai Tran. Convolutional Neural Networks Based Random Projections Method with Applications to EEG Prediction Tasks. /Extended abstract in IEEE Biomedical and Healthcare Conference (BHI), 2019/. 
 - *Kartik Ahuja*,  Mihaela van der Schaar. [https://ieeexplore.ieee.org/abstract/document/9048941 Joint Concordance Index.] /In 53rd Asilomar Conference on Signals, Systems, and Computers, IEEE, 2019./

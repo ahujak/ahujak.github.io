@@ -15,7 +15,7 @@
 
 - *Kartik Ahuja*, Divyat Mahajan, Vasilis Syrgkanis, Ioannis Mitliagkas. \n Towards Efficient Representation Identification in Supervised Learning. \n /Submitted/.
 
-- Abhin Shah, Karthikeyan Shanmugam, *Kartik Ahuja*. \n [https://arxiv.org/pdf/2106.11560.pdf Finding Valid Adjustments under Non-Ignorabilitywith Minimal DAG Knowledge.] \n /Submitted/.
+- Abhin Shah, Karthikeyan Shanmugam, *Kartik Ahuja*. \n [https://arxiv.org/pdf/2106.11560.pdf Finding Valid Adjustments under Non-Ignorability with Minimal DAG Knowledge.] \n /Submitted/.
 
 - *Kartik Ahuja*, Ethan Caballero, Dinghuai Zhang, Jean-Christophe Audet, Yoshua Bengio, Ioannis Mitliagkas, Irina Rish.\n [https://arxiv.org/pdf/2106.06607.pdf Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization.] \n /NeurIPS, 2021/ *(Spotlight)* [https://github.com/ahujak/IB-IRM (code)] 
 

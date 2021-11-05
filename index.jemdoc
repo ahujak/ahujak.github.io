@@ -25,12 +25,12 @@ I am broadly interested in problems in the areas of  machine learning, causality
 
 == Selected Publications and Preprints
 - *Kartik Ahuja*, Jason Hartford, Yoshua Bengio.\n 
- [https://arxiv.org/pdf/2110.15796.pdf Properties from Mechanisms: An Equivariance Perspective on Identifiable Representation Learning] \n 
+ [https://arxiv.org/pdf/2110.15796.pdf Properties from Mechanisms: An Equivariance Perspective on Identifiable Representation Learning.] \n 
 /Submitted/.
 
 - *Kartik Ahuja*, Divyat Mahajan, Vasilis Syrgkanis, Ioannis Mitliagkas.\n  Towards Efficient Representation Identification in Supervised Learning. \n /Submitted/.
 
-- Abhin Shah, Karthikeyan Shanmugam, *Kartik Ahuja*.\n [https://arxiv.org/pdf/2106.11560.pdf Finding Valid Adjustments under Non-Ignorabilitywith Minimal DAG Knowledge.]\n /Submitted/.
+- Abhin Shah, Karthikeyan Shanmugam, *Kartik Ahuja*.\n [https://arxiv.org/pdf/2106.11560.pdf Finding Valid Adjustments under Non-Ignorability with Minimal DAG Knowledge.]\n /Submitted/.
 
 - *Kartik Ahuja*, Ethan Caballero, Dinghuai Zhang, Jean-Christophe Audet, Yoshua Bengio, Ioannis Mitliagkas, Irina Rish.\n [https://arxiv.org/pdf/2106.06607.pdf Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization.]\n /NeurIPS, 2021/ *(Spotlight)* [https://github.com/ahujak/IB-IRM (code)] 
 
@@ -38,7 +38,7 @@ I am broadly interested in problems in the areas of  machine learning, causality
 
 - Dinghuai Zhang, *Kartik Ahuja*, Yilun Xu, Yisen Wang, Aaron Courville.\n [https://arxiv.org/pdf/2106.02890.pdf  Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?] \n / ICML, 2021/ *(Oral)*. [https://slideslive.com/38958614/can-subnetwork-structure-be-the-key-to-outofdistribution-generalization?ref=speaker-31133-latest (video)]
 
-- *Kartik Ahuja*, P. Sattigeri, K. Shanmugam, D. Wei, K.N. Ramamurthy, M. Kocaglu.\n [https://www.auai.org/uai2021/pdf/uai2021.768.pdf Conditionally Independent Data Generation,].\n /UAI, 2021/. [Presentation_CIDG.mp4 (video)]
+- *Kartik Ahuja*, P. Sattigeri, K. Shanmugam, D. Wei, K.N. Ramamurthy, M. Kocaglu.\n [https://www.auai.org/uai2021/pdf/uai2021.768.pdf Conditionally Independent Data Generation].\n /UAI, 2021/. [Presentation_CIDG.mp4 (video)]
 
 - *Kartik Ahuja*, Jun Wang, Amit Dhurandhar, Karthikeyan Shanmugam, Kush R. Varshney.\n [https://openreview.net/pdf?id=jrA5GAccy_ Empirical or Invariant Risk Minimization? A Sample Complexity Perspective.]\n /ICLR, 2021. /[https://slideslive.com/38953789/empirical-or-invariant-risk-minimization-a-sample-complexity-perspective?ref=speaker-31133-latest  (video)][https://github.com/IBM/OoD/tree/master/ERM-IRM (code)]
 

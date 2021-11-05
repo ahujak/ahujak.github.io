@@ -21,28 +21,31 @@ I am a postdoctoral fellow at Mila-Quebec AI Institute. Before joining Mila I wa
 
 
 
-I am broadly interested in problems at the intersection of machine learning and optimization. In the past, I  worked on optimization methods for  resource allocation problems. In recent years, I have worked on robustness and out-of-distribution generalization in machine learning. 
+I am broadly interested in problems in the areas of  machine learning, causality, and optimization. In the past, I  worked on optimization methods for  resource allocation problems. In recent years, I have worked on the theory and methods for  out-of-distribution generalization in machine learning.  
 
 == Selected Publications and Preprints
+- *Kartik Ahuja*, Jason Hartford, Yoshua Bengio, [https://arxiv.org/pdf/2110.15796.pdf Properties from Mechanisms: An Equivariance Perspective on Identifiable Representation Learning], /submitted/.
 
-- *Kartik Ahuja*, Jun Wang, Amit Dhurandhar, Karthikeyan Shanmugam, Kush R. Varshney. [https://openreview.net/pdf?id=jrA5GAccy_ Empirical or Invariant Risk Minimization? A Sample Complexity Perspective.] /ICLR 2021. /[https://slideslive.com/38953789/empirical-or-invariant-risk-minimization-a-sample-complexity-perspective?ref=speaker-31133-latest  (video)]
+- *Kartik Ahuja*, Divyat Mahajan, Vasilis Syrgkanis, Ioannis Mitliagkas, Towards Efficient Representation Identification in Supervised Learning, /submitted/.
 
-- *Kartik Ahuja*, Karthikeyan Shanmugam, Amit Dhurandhar. [https://arxiv.org/pdf/2010.15234v1.pdf Linear Regression Games: Convergence Guarantees to Approximate Out-of-Distribution Solutions.] /Submitted/.
+- Abhin Shah, Karthikeyan Shanmugam, *Kartik Ahuja*, [https://arxiv.org/pdf/2106.11560.pdf Finding Valid Adjustments under Non-Ignorabilitywith Minimal DAG Knowledge,] /submitted/.
 
-- *Kartik Ahuja*, Karthikeyan Shanmugam, Kush R. Varshney, Amit Dhurandhar. [https://proceedings.icml.cc/static/paper_files/icml/2020/2777-Paper.pdf Invariant Risk Minimization Games.] /International Conference on Machine Learning (ICML), 2020/.
+- *Kartik Ahuja*, Ethan Caballero, Dinghuai Zhang, Jean-Christophe Audet, Yoshua Bengio, Ioannis Mitliagkas, Irina Rish, [https://arxiv.org/pdf/2106.06607.pdf Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization.] /NeurIPS, 2021/ *(Spotlight)* [https://github.com/ahujak/IB-IRM (code)] 
+
+- P. Bashivan, R. Bayat, A. Ibrahim, *K. Ahuja*, M. Faramarzi, T. Laleh, B. Richards, I. Rish, [https://arxiv.org/pdf/2006.04621.pdf Adversarial Feature Desensitization.] /NeurIPS, 2021/. 
+
+- Dinghuai Zhang, *Kartik Ahuja*, Yilun Xu, Yisen Wang, Aaron Courville, [https://arxiv.org/pdf/2106.02890.pdf  Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?]/ ICML, 2021/ *(Oral)*.
+
+- *Kartik Ahuja*, P. Sattigeri, K. Shanmugam, D. Wei, K.N. Ramamurthy, M. Kocaglu, [https://www.auai.org/uai2021/pdf/uai2021.768.pdf Conditionally Independent Data Generation,] /UAI, 2021/. [Presentation_CIDG.mp4 (video)]
+
+- *Kartik Ahuja*, Jun Wang, Amit Dhurandhar, Karthikeyan Shanmugam, Kush R. Varshney. [https://openreview.net/pdf?id=jrA5GAccy_ Empirical or Invariant Risk Minimization? A Sample Complexity Perspective.] /ICLR, 2021. /[https://slideslive.com/38953789/empirical-or-invariant-risk-minimization-a-sample-complexity-perspective?ref=speaker-31133-latest  (video)][https://github.com/IBM/OoD/tree/master/ERM-IRM (code)]
+
+- *Kartik Ahuja*, Karthikeyan Shanmugam, Amit Dhurandhar. [https://arxiv.org/pdf/2010.15234v1.pdf Linear Regression Games: Convergence Guarantees to Approximate Out-of-Distribution Solutions.] /AISTATS, 2021/. [https://slideslive.com/38953049/linear-regression-games-convergence-guarantees-to-approximate-outofdistribution-solutions?ref=speaker-31133-latest (video)] [https://github.com/IBM/OoD/tree/master/LRG_games (code)]
+
+- *Kartik Ahuja*, Karthikeyan Shanmugam, Kush R. Varshney, Amit Dhurandhar. [https://proceedings.icml.cc/static/paper_files/icml/2020/2777-Paper.pdf Invariant Risk Minimization Games.] /ICML, 2020/ [https://slideslive.com/38927951/invariant-risk-minimization-games?ref=speaker-30248-latest&locale=en (video)][https://github.com/IBM/OoD/tree/master/IRM_games (code)].
 
 
-- *Kartik Ahuja*, Amit Dhurandhar, Karthikeyan Shanmugam,  Kush R. Varshney. Learning to Initialize Gradient Descent using Gradient Descent. /Submitted/.
-
-
-- *Kartik Ahuja*. [https://ieeexplore.ieee.org/document/9049082 Estimating Kullback-Leibler Divergence using Kernel Machines.] /In 53rd Asilomar Conference on Signals, Systems, and Computers. IEEE, 2019./ 
-
-- *Kartik Ahuja*, William Zame, Mihaela van der Schaar. [https://ieeexplore.ieee.org/abstract/document/9049045 Optimal Piecewise Approximations for Model Interpretation.] /In 53rd Asilomar Conference on Signals, Systems, and Computers, IEEE, 2019./ *Second best student paper award.*
-
- 
-- *Kartik Ahuja*, Mihaela Van der Schaar. [https://dl.acm.org/doi/abs/10.1145/3369925 Dynamic Matching and Allocation of Tasks.] /In ACM Transactions on Economics and Computation (TEAC) 7, no. 4 (2019): 1-27 and a short version appeared in 30th International Conference on Game Theory, 2019/.
-
-- *Kartik Ahuja*, William Zame, and Mihaela van der Schaar. [https://papers.nips.cc/paper/6731-dpscreen-dynamic-personalized-screening.pdf Dpscreen: Dynamic personalized screening.] /In Advances in Neural Information Processing Systems (NeurIPS), pp. 1321-1332. 2017./
+- *Kartik Ahuja*, William Zame, and Mihaela van der Schaar. [https://papers.nips.cc/paper/6731-dpscreen-dynamic-personalized-screening.pdf Dpscreen: Dynamic personalized screening.] /NeurIPS, 2017./
 
 
 
@@ -51,5 +54,5 @@ I am broadly interested in problems at the intersection of machine learning and 
 
 == Curriculum Vitae
 
-Here is a link to my [Kartik_resume_March_22_20.pdf CV] last updated 18th April, 2020. 
+Here is a link to my [Kartik_ahuja_cv.pdf CV] last updated 4 November, 2021. 
 

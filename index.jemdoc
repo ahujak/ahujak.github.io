@@ -21,11 +21,11 @@ I am a postdoctoral fellow at Mila-Quebec AI Institute. Before joining Mila I wa
 
 
 
-I am broadly interested in problems at the intersection of machine learning and optimization.  During the course of my PhD, I  worked on developing tractable and approximate optimization algorithms for resource allocation problems and different problems in machine learning. In recent years, I have been working on  out-of-distribution generalization and robustness in machine learning. 
+I am broadly interested in problems at the intersection of machine learning and optimization. In the past, I  worked on optimization methods for  resource allocation problems. In recent years, I have worked on robustness and out-of-distribution generalization in machine learning. 
 
 == Selected Publications and Preprints
 
-- *Kartik Ahuja*, Jun Wang, Amit Dhurandhar, Karthikeyan Shanmugam, Kush R. Varshney. [https://arxiv.org/abs/2010.16412 Empirical or Invariant Risk Minimization? A Sample Complexity Perspective.] /Submitted/.
+- *Kartik Ahuja*, Jun Wang, Amit Dhurandhar, Karthikeyan Shanmugam, Kush R. Varshney. [https://openreview.net/pdf?id=jrA5GAccy_ Empirical or Invariant Risk Minimization? A Sample Complexity Perspective.] /ICLR 2021. /[https://slideslive.com/38953789/empirical-or-invariant-risk-minimization-a-sample-complexity-perspective?ref=speaker-31133-latest  (video)]
 
 - *Kartik Ahuja*, Karthikeyan Shanmugam, Amit Dhurandhar. [https://arxiv.org/pdf/2010.15234v1.pdf Linear Regression Games: Convergence Guarantees to Approximate Out-of-Distribution Solutions.] /Submitted/.
 

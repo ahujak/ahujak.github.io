@@ -11,61 +11,76 @@
 
 
 == Optimization, Machine Learning, and Game Theory
+- *Kartik Ahuja*, Jason Hartford, Yoshua Bengio.\n [https://arxiv.org/pdf/2110.15796.pdf Properties from Mechanisms: An Equivariance Perspective on Identifiable Representation Learning.]\n /Submitted/.
 
-- *Kartik Ahuja*, Amit Dhurandhar, Karthikeyan Shanmugam,  Kush R. Varshney. Learning to Initialize Gradient Descent using Gradient Descent. /Submitted/.
+- *Kartik Ahuja*, Divyat Mahajan, Vasilis Syrgkanis, Ioannis Mitliagkas. \n Towards Efficient Representation Identification in Supervised Learning. \n /Submitted/.
+
+- Abhin Shah, Karthikeyan Shanmugam, *Kartik Ahuja*. \n [https://arxiv.org/pdf/2106.11560.pdf Finding Valid Adjustments under Non-Ignorabilitywith Minimal DAG Knowledge.] \n /Submitted/.
+
+- *Kartik Ahuja*, Ethan Caballero, Dinghuai Zhang, Jean-Christophe Audet, Yoshua Bengio, Ioannis Mitliagkas, Irina Rish.\n [https://arxiv.org/pdf/2106.06607.pdf Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization.] \n /NeurIPS, 2021/ *(Spotlight)* [https://github.com/ahujak/IB-IRM (code)] 
+
+- P. Bashivan, R. Bayat, A. Ibrahim, *K. Ahuja*, M. Faramarzi, T. Laleh, B. Richards, I. Rish.\n [https://arxiv.org/pdf/2006.04621.pdf Adversarial Feature Desensitization.] \n /NeurIPS, 2021/. 
+
+- Dinghuai Zhang, *Kartik Ahuja*, Yilun Xu, Yisen Wang, Aaron Courville.\n [https://arxiv.org/pdf/2106.02890.pdf  Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?] \n / ICML, 2021/ *(Oral)*. [https://slideslive.com/38958614/can-subnetwork-structure-be-the-key-to-outofdistribution-generalization?ref=speaker-31133-latest (video)]
+
+- *Kartik Ahuja*, P. Sattigeri, K. Shanmugam, D. Wei, K.N. Ramamurthy, M. Kocaglu. \n [https://www.auai.org/uai2021/pdf/uai2021.768.pdf Conditionally Independent Data Generation.] \n /UAI, 2021/. [Presentation_CIDG.mp4 (video)]
+
+- *Kartik Ahuja*, Jun Wang, Amit Dhurandhar, Karthikeyan Shanmugam, Kush R. Varshney.\n [https://openreview.net/pdf?id=jrA5GAccy_ Empirical or Invariant Risk Minimization? A Sample Complexity Perspective.]\n /ICLR, 2021. /[https://slideslive.com/38953789/empirical-or-invariant-risk-minimization-a-sample-complexity-perspective?ref=speaker-31133-latest  (video)][https://github.com/IBM/OoD/tree/master/ERM-IRM (code)]
+
+- *Kartik Ahuja*, Karthikeyan Shanmugam, Amit Dhurandhar.\n [https://arxiv.org/pdf/2010.15234v1.pdf Linear Regression Games: Convergence Guarantees to Approximate Out-of-Distribution Solutions.]\n /AISTATS, 2021/. [https://slideslive.com/38953049/linear-regression-games-convergence-guarantees-to-approximate-outofdistribution-solutions?ref=speaker-31133-latest (video)] [https://github.com/IBM/OoD/tree/master/LRG_games (code)]
+
+- *Kartik Ahuja*, Karthikeyan Shanmugam, Kush R. Varshney, Amit Dhurandhar.\n  [https://proceedings.icml.cc/static/paper_files/icml/2020/2777-Paper.pdf Invariant Risk Minimization Games.]\n /ICML, 2020/ [https://slideslive.com/38927951/invariant-risk-minimization-games?ref=speaker-30248-latest&locale=en (video)][https://github.com/IBM/OoD/tree/master/IRM_games (code)].
+
+- *Kartik Ahuja*, Amit Dhurandhar, Karthikeyan Shanmugam,  Kush R. Varshney.\n Learning to Initialize Gradient Descent using Gradient Descent. \n /Submitted/.
+
+- *Kartik Ahuja*, Karthikeyan Shanmugam, Kush R. Varshney, Amit Dhurandhar.\n [https://biases-invariances-generalization.github.io/pdf/big_44.pdf On the Equivalence of Bi-Level Optimization and Game-Theoretic
+Formulations of Invariant Risk Minimization.]\n /Inductive Biases, Invariances and Generalization in RL Workshop, International Conference on Machine Learning (ICML), 2020/.
 
 
-- *Kartik Ahuja*, Jun Wang, Amit Dhurandhar, Karthikeyan Shanmugam, Kush R. Varshney. [https://arxiv.org/abs/2010.16412 Empirical or Invariant Risk Minimization? A Sample Complexity Perspective.] /Submitted/.
+- *Kartik Ahuja*. \n [https://ieeexplore.ieee.org/document/9049082 Estimating Kullback-Leibler Divergence using Kernel Machines.]\n /In 53rd Asilomar Conference on Signals, Systems, and Computers. IEEE, 2019./ 
 
-- *Kartik Ahuja*, Karthikeyan Shanmugam, Amit Dhurandhar. [https://arxiv.org/pdf/2010.15234v1.pdf Linear Regression Games: Convergence Guarantees to Approximate Out-of-Distribution Solutions.] /Submitted/.
+- *Kartik Ahuja*, William Zame, Mihaela van der Schaar.\n [https://ieeexplore.ieee.org/abstract/document/9049045 Optimal Piecewise Approximations for Model Interpretation.]\n /In 53rd Asilomar Conference on Signals, Systems, and Computers, IEEE, 2019./ *Second best student paper award.*
 
-- *Kartik Ahuja*, Karthikeyan Shanmugam, Kush R. Varshney, Amit Dhurandhar. [https://arxiv.org/pdf/2002.04692.pdf Invariant Risk Minimization Games.] /International Conference on Machine Learning (ICML), 2020/.
-
-- *Kartik Ahuja*, Karthikeyan Shanmugam, Kush R. Varshney, Amit Dhurandhar. [https://biases-invariances-generalization.github.io/pdf/big_44.pdf On the Equivalence of Bi-Level Optimization and Game-Theoretic
-Formulations of Invariant Risk Minimization.] /Inductive Biases, Invariances and Generalization in RL Workshop, International Conference on Machine Learning (ICML), 2020/.
-
-- *Kartik Ahuja*, Prasanna Sattigeri,  Karthikeyan Shanmugam, Murat Kocaglu, Dennis Wei, Karthikeyan N. Ramamurthy. Conditional Independent Data Generation and its Applications. /Submitted/. 
-
-- *Kartik Ahuja*. [https://ieeexplore.ieee.org/document/9049082 Estimating Kullback-Leibler Divergence using Kernel Machines.] /In 53rd Asilomar Conference on Signals, Systems, and Computers. IEEE, 2019./ 
-
-- *Kartik Ahuja*, William Zame, Mihaela van der Schaar. [https://ieeexplore.ieee.org/abstract/document/9049045 Optimal Piecewise Approximations for Model Interpretation.] /In 53rd Asilomar Conference on Signals, Systems, and Computers, IEEE, 2019./ *Second best student paper award.*
-
-
-- *Kartik Ahuja*, Mai Tran. Convolutional Neural Networks Based Random Projections Method with Applications to EEG Prediction Tasks. /Extended abstract in IEEE Biomedical and Healthcare Conference (BHI), 2019/. 
-- *Kartik Ahuja*,  Mihaela van der Schaar. [https://ieeexplore.ieee.org/abstract/document/9048941 Joint Concordance Index.] /In 53rd Asilomar Conference on Signals, Systems, and Computers, IEEE, 2019./
  
-- *Kartik Ahuja*, Mihaela Van der Schaar. [https://dl.acm.org/doi/abs/10.1145/3369925 Dynamic Matching and Allocation of Tasks.] /In ACM Transactions on Economics and Computation (TEAC) 7, no. 4 (2019): 1-27 and a short version appeared in 30th International Conference on Game Theory, 2019/.
+- *Kartik Ahuja*,  Mihaela van der Schaar.\n [https://ieeexplore.ieee.org/abstract/document/9048941 Joint Concordance Index.]\n /In 53rd Asilomar Conference on Signals, Systems, and Computers, IEEE, 2019./
+ 
+- *Kartik Ahuja*, Mihaela Van der Schaar.\n [https://dl.acm.org/doi/abs/10.1145/3369925 Dynamic Matching and Allocation of Tasks.] \n /In ACM Transactions on Economics and Computation (TEAC) 7, no. 4 (2019): 1-27 and a short version appeared in 30th International Conference on Game Theory, 2019/.
 
-- *Kartik Ahuja*, William Zame, and Mihaela van der Schaar. [https://papers.nips.cc/paper/6731-dpscreen-dynamic-personalized-screening.pdf Dpscreen: Dynamic personalized screening.] /In Advances in Neural Information Processing Systems (NeurIPS), pp. 1321-1332. 2017/.
-
-- *Kartik Ahuja*, Mihaela Van der Schaar. Joint Concordance of Prognostic Models with  Competing Risks. /In Neural Information Processing Systems  workshop on Machine Learning for Healthcare, (NeurIPS, ML4H), 2017/.
-
-- *Kartik Ahuja*, Yuanzhang Xiao, and Mihaela van der Schaar. [https://ieeexplore.ieee.org/abstract/document/7067417 Distributed interference management policies for heterogeneous small cell networks.] /IEEE Journal on Selected Areas in Communications  33, no. 6 pp 1112-1126, 2015/. *Featured in IEEE MMTC Letter, December 2016.*
+- *Kartik Ahuja*, William Zame, and Mihaela van der Schaar.\n [https://papers.nips.cc/paper/6731-dpscreen-dynamic-personalized-screening.pdf Dpscreen: Dynamic personalized screening.] \n /In Advances in Neural Information Processing Systems (NeurIPS), pp. 1321-1332. 2017/.
 
 
-- *Kartik Ahuja*, Yuanzhang Xiao, and Mihaela van der Schaar. [https://ieeexplore.ieee.org/abstract/document/7098410 Efficient Interference Management Policies for Femtocell Networks].   /In IEEE Transactions on Wireless Communications, vol. 14, no. 9, pp 4879-4893, 2015/. *Featured in [http://ieeexplore-spotlight.ieee.org/article/clearing-the-air-for-5g-wireless/ IEEE-spotlight ] and in [http://www.ee.ucla.edu/interference-management-for-next-generation-wireless-networks/ UCLA-news]*. 
+- *Kartik Ahuja*, Yuanzhang Xiao, and Mihaela van der Schaar.\n [https://ieeexplore.ieee.org/abstract/document/7067417 Distributed interference management policies for heterogeneous small cell networks.]
+\n /IEEE Journal on Selected Areas in Communications  33, no. 6 pp 1112-1126, 2015/. *Featured in IEEE MMTC Letter, December 2016.*
 
 
-- Yuanzhang Xiao, *Kartik Ahuja*, Mihaela van der Schaar. [https://ieeexplore.ieee.org/abstract/document/7036982 Spectrum Sharing For Delay-Sensitive Applications with Continuing QoS Guarantees.] /In IEEE Global Communications Conference (GLOBECOM), 2014/. *Nominated for the best paper award, top 50 papers amongst 2100 submitted*.
+- *Kartik Ahuja*, Yuanzhang Xiao, and Mihaela van der Schaar.\n  [https://ieeexplore.ieee.org/abstract/document/7098410 Efficient Interference Management Policies for Femtocell Networks]. \n  /In IEEE Transactions on Wireless Communications, vol. 14, no. 9, pp 4879-4893, 2015/. *Featured in [http://ieeexplore-spotlight.ieee.org/article/clearing-the-air-for-5g-wireless/ IEEE-spotlight ] and in [http://www.ee.ucla.edu/interference-management-for-next-generation-wireless-networks/ UCLA-news]*. 
 
-- *Kartik Ahuja*, Mai Hasan, Jahangir Hossain. [https://ieeexplore.ieee.org/abstract/document/6952451 To Participate or Not in Spectrum Auctions with Entry fee: Bayesian Game Theoretic Approach.] /In IEEE Wireless Communications and Networking Conference (WCNC), 2014/.
+
+- Yuanzhang Xiao, *Kartik Ahuja*, Mihaela van der Schaar. \n [https://ieeexplore.ieee.org/abstract/document/7036982 Spectrum Sharing For Delay-Sensitive Applications with Continuing QoS Guarantees.] \n /In IEEE Global Communications Conference (GLOBECOM), 2014/. *Nominated for the best paper award, top 50 papers amongst 2100 submitted*.
+
+- *Kartik Ahuja*, Mai Hasan, Jahangir Hossain. \n [https://ieeexplore.ieee.org/abstract/document/6952451 To Participate or Not in Spectrum Auctions with Entry fee: Bayesian Game Theoretic Approach.]\n /In IEEE Wireless Communications and Networking Conference (WCNC), 2014/.
 
 == Network Science
 
 
-- *Kartik Ahuja*,  Mihaela van der Schaar, William Zame.  [https://link.springer.com/article/10.1007/s00199-019-01234-3 Working alone and working with others: implications for the malthusian era.] /Economic Theory, pp.1-35, 2019/. 
+- *Kartik Ahuja*,  Mihaela van der Schaar, William Zame.\n  [https://link.springer.com/article/10.1007/s00199-019-01234-3 Working alone and working with others: implications for the malthusian era.] \n /Economic Theory, pp.1-35, 2019/. 
 
-- Ahmed Alaa, *Kartik Ahuja*,  Mihaela van der Schaar. [https://ieeexplore.ieee.org/abstract/document/7986996 A Micro-Foundation of Social Capital in Evolving Social Networks.]  / In IEEE Transactions on Network Science and Engineering 
+- Ahmed Alaa, *Kartik Ahuja*,  Mihaela van der Schaar.\n [https://ieeexplore.ieee.org/abstract/document/7986996 A Micro-Foundation of Social Capital in Evolving Social Networks.] \n / In IEEE Transactions on Network Science and Engineering 
 vol. 5, no. 1, pp. 14-31, 2017/.
 
-- Ahmed Alaa, *Kartik Ahuja*,  Mihaela van der Schaar. [https://ieeexplore.ieee.org/abstract/document/7323822 Self-organizing Networks of Information Gathering Cognitive Agents.]  /In IEEE Transactions on Cognitive Communications and Networking, vol. 1. no. 1, pp 100-112, 2015./ 
+- Ahmed Alaa, *Kartik Ahuja*,  Mihaela van der Schaar.\n [https://ieeexplore.ieee.org/abstract/document/7323822 Self-organizing Networks of Information Gathering Cognitive Agents.] \n /In IEEE Transactions on Cognitive Communications and Networking, vol. 1. no. 1, pp 100-112, 2015./ 
 
 
-- *Kartik Ahuja*, Simpson Zhang, Mihaela van der Schaar. [https://ieeexplore.ieee.org/abstract/document/7032223 Towards a Theory of Societal Co-Evolution: Individualism versus Collectivism.]  /In IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2014/.
+- *Kartik Ahuja*, Simpson Zhang, Mihaela van der Schaar.\n [https://ieeexplore.ieee.org/abstract/document/7032223 Towards a Theory of Societal Co-Evolution: Individualism versus Collectivism.] \n /In IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2014/.
 
 
 
 = Patents
 
-- *Kartik Ahuja*, Karthikeyan Shanmugam, Kush R. Varshney, Amit Dhurandhar. A System and Method for Learning Causal Representations and Invariant Predictors. /Under review for patentability search/.
+- *Kartik Ahuja*, Karthikeyan Shanmugam, Kush R. Varshney, Amit Dhurandhar, Learning Robust Predictors Using Game Theory, /filed December 8, 2020/.
+
+- *Kartik Ahuja*, Karthikeyan Shanmugam, Kush R. Varshney, Amit Dhurandhar, Initializing Optimization Solvers, /filed November 23, 2020/.
+
+- *Kartik Ahuja*, Prasanna Sattigeri, Karthikeyan Shanmugam, Dennis Wei, Murat Kocaglu, Karthikeyan N. Ramamurthy,  Conditional Independent Data Generation for Training Machine Learning Systems, /filed June 26, 2021/. 
+
 

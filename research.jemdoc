@@ -11,11 +11,11 @@
 
 
 == Optimization, Machine Learning, and Game Theory
-- *Kartik Ahuja*, Jason Hartford, Yoshua Bengio.\n [https://arxiv.org/pdf/2110.15796.pdf Properties from Mechanisms: An Equivariance Perspective on Identifiable Representation Learning.]\n /Submitted/.
+- *Kartik Ahuja*, Jason Hartford, Yoshua Bengio.\n [https://arxiv.org/pdf/2110.15796.pdf Properties from Mechanisms: An Equivariance Perspective on Identifiable Representation Learning.]\n /ICLR, 2022/.
 
-- *Kartik Ahuja*, Divyat Mahajan, Vasilis Syrgkanis, Ioannis Mitliagkas. \n Towards Efficient Representation Identification in Supervised Learning. \n /Submitted/.
+- *Kartik Ahuja*, Divyat Mahajan, Vasilis Syrgkanis, Ioannis Mitliagkas. \n Towards Efficient Representation Identification in Supervised Learning. \n /CleaR, 2022/.
 
-- Abhin Shah, Karthikeyan Shanmugam, *Kartik Ahuja*. \n [https://arxiv.org/pdf/2106.11560.pdf Finding Valid Adjustments under Non-Ignorability with Minimal DAG Knowledge.] \n /Submitted/.
+- Abhin Shah, Karthikeyan Shanmugam, *Kartik Ahuja*. \n [https://arxiv.org/pdf/2106.11560.pdf Finding Valid Adjustments under Non-Ignorability with Minimal DAG Knowledge.] \n /AISTATS, 2022/.
 
 - *Kartik Ahuja*, Ethan Caballero, Dinghuai Zhang, Jean-Christophe Audet, Yoshua Bengio, Ioannis Mitliagkas, Irina Rish.\n [https://arxiv.org/pdf/2106.06607.pdf Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization.] \n /NeurIPS, 2021/ *(Spotlight)* [https://github.com/ahujak/IB-IRM (code)] 
 
